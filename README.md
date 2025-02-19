@@ -4,4 +4,4 @@ Each customer is given a transactions account with money to operate with the sho
 
 Things like sugar tax and hot food heating charges have also been simulated.
 
-Simulation.java conducts a full day's simulation, providing successful and unsuccessful transactions alongside a brief summary of the shop's turnover and things like the negative balances count..
+Simulation.java conducts a full day's simulation, providing successful and unsuccessful transactions alongside a brief summary of the shop's turnover and things like the negative balances count.
